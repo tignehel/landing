@@ -1,0 +1,18 @@
+.banner {
+	background-image: url(../../images/background.jpg);
+	color: #154029;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center right;
+}
+
+.banner h1 {
+	font-size: 50px;
+}
+
+.banner h2 {
+	font-size: 40px;
+	font-weight: 500;
+	margin-bottom: 40px;
+	max-width: 700px;
+}
